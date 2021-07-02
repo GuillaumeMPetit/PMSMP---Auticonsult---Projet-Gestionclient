@@ -1,0 +1,7 @@
+utilisateur 1
+id		mdp
+mmartin		mmichel
+
+utilisateur 2
+id		mdp
+clopez		lcyril
